@@ -1,5 +1,5 @@
 # Página sobre Rick and Morty
 
-##Objetivo:
+## Objetivo:
 
 - Criar uma página web usando Bootstrap
